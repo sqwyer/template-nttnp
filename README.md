@@ -21,6 +21,9 @@ npm db:push
 npm run dev
 ```
 
+**Note:** You may need to use [Git Bash](https://git-scm.com/downloads) in order to run shell script command
+
+
 ### Info
 
 - Uses Google oAuth by default. Can be changed by adjusting providers in `src/server/auth/config.ts`
