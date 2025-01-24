@@ -24,4 +24,3 @@ npm run dev
 ### Info
 
 - Uses Google oAuth by default. Can be changed by adjusting providers in `src/server/auth/config.ts`
--
