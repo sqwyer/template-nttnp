@@ -21,7 +21,7 @@ npm db:push
 npm run dev
 ```
 
-**Note:** You may need to use [Git Bash](https://git-scm.com/downloads) in order to run shell script command
+**Note:** You may need to use [Git Bash](https://git-scm.com/downloads) in order to run shell script command on Windows
 
 
 ### Info
