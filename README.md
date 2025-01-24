@@ -9,7 +9,7 @@ Template built on `NextJS` `TRPC` `TailwindCSS` `NextAuth` `Prisma` bootstrapped
 1. Clone locally
 
 ```sh
-git clone https://github.com/sqwyer/template-nttnp.git \<dir_name\>
+git clone https://github.com/sqwyer/template-nttnp.git <dir_name>
 ```
 
 2. Install and setup database
